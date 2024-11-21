@@ -10,15 +10,15 @@ order: 1
 <span style=
 "font-size:170%;
 font-weight:bold">
-김현우
+김보건
 </span>
 </center>
 
-<center>MAJOR : AI EENGINEERING</center>
+<center>MAJOR : AI </center>
 
-<center>Korean University</center>
+<center>Seoul Cyber ​​University</center>
 
-<center>145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
+<center>60, Solmae-ro 49-gil, Gangbuk-gu, Seoul, Republic of Korea</center>
 
 ## Personal Data
 ---
